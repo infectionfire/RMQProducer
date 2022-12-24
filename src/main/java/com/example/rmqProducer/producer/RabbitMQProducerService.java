@@ -1,4 +1,4 @@
-package com.example.rmqProducer.model;
+package com.example.rmqProducer.producer;
 
 public interface RabbitMQProducerService {
 

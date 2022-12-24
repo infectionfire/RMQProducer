@@ -1,7 +1,7 @@
 package com.example.rmqProducer.controller;
 
 import com.example.rmqProducer.model.MessageModel;
-import com.example.rmqProducer.model.RabbitMQProducerService;
+import com.example.rmqProducer.producer.RabbitMQProducerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestBody;
